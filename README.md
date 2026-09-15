@@ -1,34 +1,50 @@
 # Dwin Distribution
 
-A complete, standalone Next.js drinks catalogue inspired by https://imexcopricelist.app/.
+An original, mobile-first drinks distributor website built with Next.js, React and TypeScript. Warm ivory, burgundy and elegant display typography support product, category, brand and occasion discovery.
 
-Includes a photographic three-collection homepage, original Dwin logo, 1,459 sample products, search, category/brand/country filters, price sorting, new/updated product filters, persistent cart, quantity controls, light/dark themes, downloadable price lists, and customer-labelled pro forma invoice PDFs with catalogue QR codes.
+## Run
 
-## Run locally
-
-Requires Node.js 22 and npm.
+Node.js 22 and npm:
 
 ```sh
 npm ci
 npm run dev
 ```
 
-Open http://localhost:3001. For a production build, run `npm run build`, then `npm start`.
+Open http://localhost:3001. Run `npm run build` and `npm start` for a production preview.
 
-## Deploy to Vercel
+## Catalogue and pricing
 
-See [DEPLOYMENT.md](./DEPLOYMENT.md). For `fiifikhoruz/dwin-distribution`, use **Root Directory** `./`. No environment variables, authentication service, or database are required.
+All 1,459 original products are preserved in `lib/products.json`. This file is the immutable price baseline. `lib/catalogue.ts` applies the one-time 12% increase centrally: exact price = baseline × 112 / 100, selling price = nearest whole Ghana cedi. All cards, filters, order totals and PDFs use that selling price.
 
-## Catalogue data
+```sh
+npm run verify:prices
+```
 
-`lib/products.json` is the public reference catalogue snapshot retrieved on 14 September 2026. The source site reported its last update as 14 July 2026. The data is bundled with the application; the site never connects to the reference service at runtime. Prices remain sample prices, not verified Dwin selling prices.
+The verification compares every product to the original Git revision `d1ac18e` and writes `docs/price-verification.json`. The audit checks product count, unique IDs, every increased price and original source fields. Clone full Git history to run this historical comparison.
 
-Change this file and redeploy to update the catalogue. Preserve unique numeric IDs, product codes, names, categories, brands, regions, prices and optional previous prices. Collection membership is defined in `lib/catalogue.ts`.
+Source data includes category, brand, country/region, product code, size, pack information, alcohol values and update status. Explicit bottle units are normalized without guessing unitless sizes. No reliable stock data exists, so availability is confirmed on enquiry.
 
-Cart and theme preferences are stored only in the visitor's browser. Customer names are used only to generate PDFs locally. No order, payment, email, or notification is sent. The invoice is explicitly a sample pro forma quotation, not a tax invoice. Taxes, delivery charges and stock availability are not calculated.
+## Discovery and orders
 
-## Branding and assets
+- Homepage: category discovery, featured selection, occasions, brands and distributor positioning.
+- Catalogue: grid, desktop filter sidebar, mobile filter drawer, search, category, brand, price, bottle size, country, occasion and updates filters.
+- Global sorting: recommended, price ascending/descending and A–Z. Progressive loading exposes every product.
+- Product details preserve source codes, size and pack information.
+- Persistent order tray, quantity controls, WhatsApp enquiry text, clipboard copy, price-list and pro forma PDFs. No full checkout, payment or automatic message sending.
 
-The generated Dwin logo is in `public/brand/dwin-logo.png`; the matching favicon is `public/icon.svg`. Asset provenance and the logo generation brief are recorded in [ASSETS.md](./ASSETS.md).
+The existing `dwin-cart` browser storage format is preserved. PDFs and enquiry messages are created on the visitor's device.
 
-This project is isolated from the existing Ghanaman Time application in the parent folder. It does not use or change the parent's Convex deployment, Clerk configuration or environment variables.
+## WhatsApp
+
+Set optional `NEXT_PUBLIC_DWIN_WHATSAPP_NUMBER` to the verified business number in international digits-only format and rebuild. Without a confirmed number, the UI offers WhatsApp contact selection and copying instead of pretending to send directly to Dwin.
+
+## Photography
+
+The original editorial hero is generated for Dwin. Five genuine packshots are matched to exact products and stored locally. Other cards use labelled category illustrations. Add verified image mappings in `lib/product-images.json` to expand photography coverage without changing any product records. Sources are recorded there and in `ASSETS.md`.
+
+## Deployment
+
+The existing repository is `fiifikhoruz/dwin-distribution`; Vercel Root Directory is `./`, framework is Next.js. See `DEPLOYMENT.md`. The parent Ghanaman Time app and its Convex backend are unrelated and unchanged.
+
+See `docs/redesign-notes.md` for the architecture review, changes, pricing policy and data limitations.

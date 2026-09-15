@@ -2,12 +2,15 @@
   "name": "dwin-distribution",
   "version": "1.0.0",
   "private": true,
-  "overrides": { "postcss": "8.5.24" },
+  "overrides": {
+    "postcss": "8.5.24"
+  },
   "scripts": {
     "dev": "next dev --port 3001",
     "build": "next build",
     "start": "next start --port 3001",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "verify:prices": "node scripts/verify-prices.cjs"
   },
   "dependencies": {
     "next": "^15.5.25",

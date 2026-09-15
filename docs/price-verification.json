@@ -1,0 +1,35 @@
+{
+  "policy": "Original × 1.12, then round to nearest whole GHS",
+  "baselineCommit": "d1ac18e",
+  "originalCount": 1459,
+  "finalCount": 1459,
+  "verifiedPrices": 1459,
+  "preservedSource": true,
+  "failures": 0,
+  "examples": [
+    {
+      "id": 1,
+      "original": 377,
+      "exact": 422.24,
+      "displayed": 422
+    },
+    {
+      "id": 5,
+      "original": 113,
+      "exact": 126.56,
+      "displayed": 127
+    },
+    {
+      "id": 2,
+      "original": 113,
+      "exact": 126.56,
+      "displayed": 127
+    },
+    {
+      "id": 3,
+      "original": 113,
+      "exact": 126.56,
+      "displayed": 127
+    }
+  ]
+}
