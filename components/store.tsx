@@ -5,7 +5,7 @@ type Store = { cart: Record<string, number>; setQuantity: (id: number, quantity:
 const Context = createContext<Store | null>(null);
 export function StoreProvider({ children }: { children: ReactNode }) {
   const [cart, setCart] = useState<Record<string, number>>({});
-  const [theme, setTheme] = useState("light");
+  const [theme, setTheme] = useState("dark");
   const [ready, setReady] = useState(false);
   const [cartOpen, setCartOpen] = useState(false);
   useEffect(() => {
@@ -14,7 +14,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       if (saved && typeof saved === "object" && !Array.isArray(saved)) {
         setCart(Object.fromEntries(Object.entries(saved).filter(([id, quantity]) => products.some(p => String(p.id) === id) && typeof quantity === "number" && Number.isInteger(quantity) && quantity > 0 && quantity <= 999)) as Record<string, number>);
       }
-      setTheme("light");
+      setTheme("dark");
     } catch { /* Storage is optional, including in private browsing. */ }
     setReady(true);
   }, []);

@@ -32,3 +32,6 @@ New hero: `public/images/original/dwin-still-life.png`, generated using the buil
 Five matched packshots were downloaded from public DrinksHero product pages. Exact source URLs and product associations are in `lib/product-images.json`. No external prices or product records were imported. Other product images are original category SVG illustrations and are labelled as illustrations in the interface.
 
 Display typography is Libre Caslon Display; UI typography remains DM Sans. The existing Dwin logo is retained.
+
+## September 16 dark visual upgrade
+Original AI-generated, unbranded editorial bar and evening-table photography: public/images/original/dwin-night-bar.webp and dwin-evening-table.webp. Built-in image generation; compressed WebP. Prompts and dimensions: docs/dark-visual-upgrade.md. Exact product photography and its mappings are unchanged. New category silhouettes are original unbranded SVG illustrations in components/category-visual.tsx.
