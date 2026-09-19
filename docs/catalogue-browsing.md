@@ -12,3 +12,11 @@ Real homepage photography from Pexels, sourced 2026-09-19 (decorative category i
 - Non-alcoholics: https://www.pexels.com/photo/close-up-photo-of-lemonade-in-drinking-glasses-8042740/
 
 Checks: node scripts/verify-browsing.cjs; npm run verify:prices; npm run build.
+
+## Text price list and photographic homepage
+
+Product results and details now omit all photography and illustration slots. Desktop rows align product/category, size, price and quantity controls; mobile uses compact stacked rows. Exact source names are displayed. All image files and mappings remain preserved for future use.
+
+Homepage panels now use full-width photography, a light overall scrim and dark backing local to the shorter text. Motion is transform-only: slow image drift on desktop, a small scale change on mobile, and a fine-pointer-only hover perspective. IntersectionObserver pauses off-screen panels. A pause/resume control is available. Both CSS and the observer honor prefers-reduced-motion, including changes while the page is open; reduced motion removes all transforms/animations and hides the unnecessary toggle.
+
+Browser checks: desktop and 390px mobile layout; search returned two Jameson products; ascending sorting; add/remove quantity updates order count; zero price-list image elements; visible-only animation and pause/resume states; no console errors. Reduced-motion behavior reviewed in both CSS and observer cleanup logic. Real-device frame-rate profiling was not performed.
