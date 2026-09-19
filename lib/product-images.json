@@ -1,17 +1,217 @@
 {
-  "693": {
-    "src": "/products/693.jpg",
-    "source": "https://www.drinkshero.com/products/hennessy-vs-cognac-70cl",
-    "note": "Bottle photography; packaging may vary."
-  },
-  "1082": {
-    "src": "/products/1082.jpg",
-    "source": "https://www.drinkshero.com/products/moet-chandon-brut-imperial-75cl",
-    "note": "Bottle photography; packaging may vary."
-  },
   "102": {
     "src": "/products/102.jpg",
     "source": "https://www.drinkshero.com/products/baileys-original-irish-cream-liqueur-litre",
+    "note": "Bottle photography; packaging may vary."
+  },
+  "121": {
+    "src": "/products/juice/beyti-pinapple-juice-12-1-liter.webp",
+    "source": "https://www.kubacompany.com/marken/beyti-juice",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "122": {
+    "src": "/products/juice/beyti-cocktail-juice-12-1-liter.webp",
+    "source": "https://www.kubacompany.com/marken/beyti-juice",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "123": {
+    "src": "/products/juice/beyti-orange-juice-12-1-liter.webp",
+    "source": "https://www.kubacompany.com/marken/beyti-juice",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "124": {
+    "src": "/products/juice/beyti-guava-juice-12-1-liter.webp",
+    "source": "https://www.kubacompany.com/marken/beyti-juice",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "125": {
+    "src": "/products/juice/beyti-mango-juice-12-1-liter.webp",
+    "source": "https://www.kubacompany.com/marken/beyti-juice",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "126": {
+    "src": "/products/juice/beyti-apple-juice-12-1-liter.webp",
+    "source": "https://www.kubacompany.com/marken/beyti-juice",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "145": {
+    "src": "/products/champagne/bottega-pink-gold-6-x-75cl.webp",
+    "source": "https://www.bottegaspa.com/en/collections/pink-gold-prosecco-doc-rose/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "146": {
+    "src": "/products/champagne/bottega-gold-prosecco-6x75cl.webp",
+    "source": "https://www.bottegaspa.com/en/collections/gold-prosecco-doc/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "152": {
+    "src": "/products/champagne/bottega-rose-gold-prosecco-75cl.webp",
+    "source": "https://www.bottegaspa.com/en/collections/bottega-rose-gold-bottega-spa/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "155": {
+    "src": "/products/whisky/bush-malt-21yo-40-gen-6x700ml-70cl.webp",
+    "source": "https://shop.bushmills.com/products/21-year-old-single-malt-new-bottle",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "156": {
+    "src": "/products/whisky/bush-malt-16yo-40-gen-6x700ml-70cl.webp",
+    "source": "https://shop.bushmills.com/products/16-yr-old-malt-new-bottle",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "161": {
+    "src": "/products/whisky/bushmills-10yo-single-malt-6x70cl-70cl.webp",
+    "source": "https://shop.bushmills.com/products/10-year-old-single-malt-new",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "276": {
+    "src": "/products/soft-drinks/le-petit-chavin-sparkling-rose-75cl.webp",
+    "source": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "277": {
+    "src": "/products/soft-drinks/chavin-zero-boisson-a-base-de-chardonnay-sparkling-blanc-75cl.webp",
+    "source": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/chavinzero/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "278": {
+    "src": "/products/soft-drinks/chavin-zero-boisson-a-base-de-chardonay-desalcoolisee-blanc-75cl.webp",
+    "source": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/chavinzero/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "279": {
+    "src": "/products/soft-drinks/chavin-zero-boisson-a-base-de-syrah-desalcoolisee-rouge-75cl.webp",
+    "source": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/chavinzero/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "280": {
+    "src": "/products/soft-drinks/le-petit-chavin-boisson-a-base-de-chardonnay-desalcoolisee-rose-75cl.webp",
+    "source": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "281": {
+    "src": "/products/soft-drinks/le-petit-chavin-boisson-a-base-de-merlot-desalcoolisee-rouge-75cl.webp",
+    "source": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "282": {
+    "src": "/products/soft-drinks/le-petit-chavin-boisson-a-base-de-sparkling-chardonnay-desalcoolisee-blanc-75cl.webp",
+    "source": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "284": {
+    "src": "/products/soft-drinks/le-petit-chavin-boisson-a-base-de-chardonnay-desalcoolisee-blanc-75cl.webp",
+    "source": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "425": {
+    "src": "/products/gin/copper-head-black-batch-gin-50cl.webp",
+    "source": "https://www.copperhead.be/gins/black-batch",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "426": {
+    "src": "/products/gin/copper-head-london-dry-gin-50cl.webp",
+    "source": "https://www.copperhead.be/gins/original",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "427": {
+    "src": "/products/gin/copper-head-the-gibson-edition-gin-50cl.webp",
+    "source": "https://www.copperhead.be/gins/gibson-edition",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "611": {
+    "src": "/products/wine/gerard-bertrand-orange-gold-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/orange-gold-vin-orange-biologique-2023-75cl",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "612": {
+    "src": "/products/wine/gerard-bertrand-gris-blanc-rose-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/gris-blanc-2025-75cl-vin-rose-avec-bouchon",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "614": {
+    "src": "/products/wine/gerard-bertrand-clos-d-ora-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/clos-dora-2015-75cl",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "616": {
+    "src": "/products/wine/gerard-bertrand-la-forge-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/la-forge-2024-vin-rouge-biodynamique-75cl-parcellaire",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "618": {
+    "src": "/products/wine/gerard-bertrand-cigalus-red-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/cigalus-vin-rouge-biodynamique-2023-75cl",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "619": {
+    "src": "/products/wine/gerard-bertrand-cigalus-white-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/cigalus-2024-75cl-vin-blanc-biodynamique-copie",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "622": {
+    "src": "/products/wine/gerard-bertrand-cote-des-roses-chardonnay-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/cote-des-roses-chardonnay-2025-75cl-vin-blanc",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "623": {
+    "src": "/products/wine/gerard-bertrand-cote-des-roses-rose-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/cote-des-roses-rose-2025-75cl",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "624": {
+    "src": "/products/wine/gerard-bertrand-cote-des-roses-pinot-noir-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/cote-des-roses-pinot-noir-2024-75cl-vin-rouge",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "626": {
+    "src": "/products/wine/gerard-bertrand-art-de-vivre-red-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/art-de-vivre-vin-rouge-languedoc-2022-75cl",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "640": {
+    "src": "/products/wine/gerard-bertrand-rouge-clair-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/rouge-clair-2024-75cl-vin-rouge-leger",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "669": {
+    "src": "/products/whisky/glenmorangie-extra-matured-lasanta-15-years-6x70cl-70cl.webp",
+    "source": "https://www.glenmorangie.com/products/glenmorangie-the-lasanta-15-years-old",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "670": {
+    "src": "/products/whisky/glenmorangie-original-12-years-6x70cl-70cl.webp",
+    "source": "https://www.glenmorangie.com/products/the-original-12-years-old",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "672": {
+    "src": "/products/whisky/glenmorangie-extra-matured-lasanta-70cl-12yrs.webp",
+    "source": "https://www.glenmorangie.com/products/the-lasanta",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "673": {
+    "src": "/products/whisky/glenmorangie-extra-mature-infinita-18yrs-70cl.webp",
+    "source": "https://www.glenmorangie.com/products/the-infinita-18-years-old",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "674": {
+    "src": "/products/whisky/glenmorangie-signet-70cl.webp",
+    "source": "https://www.glenmorangie.com/products/glenmorangie-signet",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "687": {
+    "src": "/products/rum/havana-club-rhum-7-y-o-and-40-6x70cl.webp",
+    "source": "https://www.masterofmalt.com/rum/havana-club-anejo-7-year-old-rum/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "690": {
+    "src": "/products/690.jpg",
+    "source": "https://www.drinkshero.com/products/hendricks-gin-700ml",
+    "note": "Bottle photography; packaging may vary."
+  },
+  "693": {
+    "src": "/products/693.jpg",
+    "source": "https://www.drinkshero.com/products/hennessy-vs-cognac-70cl",
     "note": "Bottle photography; packaging may vary."
   },
   "827": {
@@ -19,9 +219,119 @@
     "source": "https://www.drinkshero.com/products/jameson-red-seal-1-litre",
     "note": "Bottle photography; packaging may vary."
   },
-  "690": {
-    "src": "/products/690.jpg",
-    "source": "https://www.drinkshero.com/products/hendricks-gin-700ml",
+  "881": {
+    "src": "/products/whisky/johnnie-walker-blue-label-6x75cl.webp",
+    "source": "https://productshop.johnniewalker.com/social/660b57cca114560ee4c477bf",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "882": {
+    "src": "/products/whisky/johnnie-walker-black-label-12y-12x75cl.webp",
+    "source": "https://productshop.johnniewalker.com/social/660b57cca114560ee4c477bf",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "883": {
+    "src": "/products/whisky/johnnie-walker-gold-reserve-6x75cl.webp",
+    "source": "https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-gold-label-reserve",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "886": {
+    "src": "/products/whisky/johnnie-walker-ultimate-18-yrs-75cl.webp",
+    "source": "https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-aged-18-years",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "920": {
+    "src": "/products/champagne/laurent-perrier-harmony-demi-sec.webp",
+    "source": "https://www.laurent-perrier.com/en/champagnes/harmony/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1076": {
+    "src": "/products/champagne/moet-nectar-imperial-75cl.webp",
+    "source": "https://www.moet.com/en-int/moet-nectar-imperial",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1077": {
+    "src": "/products/champagne/moet-chandon-rose-75cl.webp",
+    "source": "https://www.moet.com/en-int/moet-rose-imperial",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1081": {
+    "src": "/products/champagne/moet-ice-imperial-75cl.webp",
+    "source": "https://www.moet.com/en-int/moet-ice-imperial",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1082": {
+    "src": "/products/1082.jpg",
+    "source": "https://www.drinkshero.com/products/moet-chandon-brut-imperial-75cl",
     "note": "Bottle photography; packaging may vary."
+  },
+  "1084": {
+    "src": "/products/champagne/moet-ice-rose-75cl.webp",
+    "source": "https://www.moet.com/en-int/moet-ice-imperial-rose",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1124": {
+    "src": "/products/tequila/tequila-patron-reposado-12x75cl.webp",
+    "source": "https://www.patrontequila.com/products/patron-reposado.html",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1125": {
+    "src": "/products/tequila/tequila-patron-silver-6x75cl.webp",
+    "source": "https://www.patrontequila.com/products/patron-silver.html",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1127": {
+    "src": "/products/tequila/tequila-patron-anejo-12x75cl.webp",
+    "source": "https://www.patrontequila.com/products/patron-anejo.html",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1147": {
+    "src": "/products/energy-drinks/red-bull-24x25.webp",
+    "source": "https://www.redbull.com/gb-en/energydrink/products/red-bull-energy-drink",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1151": {
+    "src": "/products/cognac/remy-martin-v-s-o-p-12x70cl.webp",
+    "source": "https://www.remymartin.com/collection/vsop/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1154": {
+    "src": "/products/cognac/remy-1738-6-x-70cl.webp",
+    "source": "https://www.remymartin.com/collection/1738-accord-royal/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1183": {
+    "src": "/products/water/san-pellegrino-sparkling-water-75cl.webp",
+    "source": "https://www.waitrose.com/ecom/products/san-pellegrino-sparkling-natural-mineral-water-glass/058425-29383-29384",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1250": {
+    "src": "/products/gin/the-botanist-islay-dry-gin-6x70cl.webp",
+    "source": "https://www.thebotanist.com/products/the-botanist-70cl",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1327": {
+    "src": "/products/beer/curmi-32-via-dei-birrai-italian-beer-75cl.webp",
+    "source": "https://32viadeibirrai.it/products/luxury-elegant-beer-75cl",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1328": {
+    "src": "/products/beer/oppale-32-via-dei-birrai-italian-beer-75cl.webp",
+    "source": "https://32viadeibirrai.it/products/refined-balance-beer-75-cl",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1329": {
+    "src": "/products/beer/nebra-32-via-dei-birrai-italian-beer-75cl.webp",
+    "source": "https://32viadeibirrai.it/products/sophisticated-sensual-beer",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1425": {
+    "src": "/products/vodka/absolute-vodka-40-6x70cl-70cl.webp",
+    "source": "https://www.masterofmalt.com/vodka/absolut-blue-vodka/",
+    "note": "Verified product photography; packaging may vary."
+  },
+  "1428": {
+    "src": "/products/wine/gerard-bertrand-la-grande-bleue-6x75cl-75cl.webp",
+    "source": "https://www.gerard-bertrand.com/products/la-grande-bleue-2025-vin-blanc-bio-75cl",
+    "note": "Verified product photography; packaging may vary."
   }
 }

@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-09-19T10:56:32.950Z",
+  "productCount": 1459,
+  "productDataUnchanged": true,
+  "pricesUnchanged": true,
+  "existingImagesPreserved": 5,
+  "totalImages": 67,
+  "newImages": 62,
+  "missingPaths": 0,
+  "decodeErrors": 0,
+  "duplicateImageHashes": 0,
+  "browserImageCheck": {
+    "total": 67,
+    "loaded": 67,
+    "failed": 0,
+    "consoleErrors": 0,
+    "catalogueSearchVerified": "Laurent: 7 results, Harmony photograph rendered"
+  }
+}

@@ -1,0 +1,758 @@
+[
+  {
+    "productId": 670,
+    "sourceUrl": "https://www.glenmorangie.com/products/the-original-12-years-old",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0639/9895/1644/files/Glenmorangie_OG12_bottle.png?v=1720433389",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Glenmorangie distillery shop product record identifies the exact expression and 70cl format. Bottle label and age statement were visually checked.",
+    "reviewed": true
+  },
+  {
+    "productId": 669,
+    "sourceUrl": "https://www.glenmorangie.com/products/glenmorangie-the-lasanta-15-years-old",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0639/9895/1644/files/Glenmorangie_Lasanta15YO_bottle.png?v=1740673409",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Glenmorangie distillery shop product record identifies the exact expression and 70cl format. Bottle label and age statement were visually checked.",
+    "reviewed": true
+  },
+  {
+    "productId": 674,
+    "sourceUrl": "https://www.glenmorangie.com/products/glenmorangie-signet",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0639/9895/1644/files/Glenmorangie_Signet_bottle.png?v=1734512844",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Glenmorangie distillery shop product record identifies the exact expression and 70cl format. Bottle label and age statement were visually checked.",
+    "reviewed": true
+  },
+  {
+    "productId": 673,
+    "sourceUrl": "https://www.glenmorangie.com/products/the-infinita-18-years-old",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0639/9895/1644/files/Glenmorangie_The_Infinita_18_bottle.png?v=1700067395",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Glenmorangie distillery shop product record identifies the exact expression and 70cl format. Bottle label and age statement were visually checked.",
+    "reviewed": true
+  },
+  {
+    "productId": 672,
+    "sourceUrl": "https://www.glenmorangie.com/products/the-lasanta",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0639/9895/1644/products/Glenmorangie-Lasanta-2022-packshot-RVB_medium.width-1280x-prop.png?v=1659001272",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Glenmorangie distillery shop product record identifies the exact expression and 70cl format. Bottle label and age statement were visually checked.",
+    "reviewed": true
+  },
+  {
+    "productId": 1250,
+    "sourceUrl": "https://www.thebotanist.com/products/the-botanist-70cl",
+    "imageUrl": "https://www.thebotanist.com/cdn/shop/products/The_Botanist_-_70cl.jpg?v=1743598377",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official single-product page: The Botanist Islay Dry Gin; 70cl; 46% ABV.",
+    "reviewed": true
+  },
+  {
+    "productId": 611,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/orange-gold-vin-orange-biologique-2023-75cl",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/ORANGEGOLD_FR_FACE.png?v=1723817896",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 612,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/gris-blanc-2025-75cl-vin-rose-avec-bouchon",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/GRIS_BLANC_FACE_FR_75CL_BOUCHON_f11d5ff3-4ede-421e-8316-e50102b0938f.png?v=1773744335",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 614,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/clos-dora-2015-75cl",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/clos-d-ora-vin-rouge_5b3ab307-81d6-43e1-9185-8b9e5c1f5d60.jpg?v=1743430463",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 616,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/la-forge-2024-vin-rouge-biodynamique-75cl-parcellaire",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/products/la-forge-vin-rouge.jpg?v=1758178894",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 618,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/cigalus-vin-rouge-biodynamique-2023-75cl",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/products/cigalus-vin-rouge_81226cf3-c140-40ea-ac5f-ddfa4af77845.jpg?v=1775565069",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 619,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/cigalus-2024-75cl-vin-blanc-biodynamique-copie",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/cigalus-vin-blanc_bb2ad048-81f2-4975-b7ec-f82ba8d8056c.jpg?v=1682415390",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 622,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/cote-des-roses-chardonnay-2025-75cl-vin-blanc",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/COTEDESROSES_CHARDONNAY_FR_FACES_9a256c8e-c9de-4e32-8846-cc399b4b62cf.png?v=1741338565",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 624,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/cote-des-roses-pinot-noir-2024-75cl-vin-rouge",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/COTEDESROSES_PINOTNOIR_FR_FACE_1_3606975f-4d16-4ecb-a50a-50a8c58a8b96.png?v=1736173669",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 626,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/art-de-vivre-vin-rouge-languedoc-2022-75cl",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/Art_de_vivre_Rouge_2b9d24d4-0a67-483f-9df1-f0b4089123b3.png?v=1776429128",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 640,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/rouge-clair-2024-75cl-vin-rouge-leger",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/z4je9486onrcnrvjeied.jpg?v=1736180530",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 1428,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/la-grande-bleue-2025-vin-blanc-bio-75cl",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/LA_GRANDE_BLEUE_FR_FACE_VIS.png?v=1744367021",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Gerard Bertrand shop identifies the exact named wine, colour/grape where specified, and 75cl bottle format. Visually reviewed bottle label; Dwin record does not specify a vintage.",
+    "reviewed": true
+  },
+  {
+    "productId": 882,
+    "sourceUrl": "https://productshop.johnniewalker.com/social/660b57cca114560ee4c477bf",
+    "imageUrl": "https://images.salsify.com/image/upload/s--4kVEHhti--/52a99f712729f118a1c8ccaeaf2ffca28f23d1bf.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Johnnie Walker product shop identifies this exact expression as 750mL and supplies this image.",
+    "reviewed": true
+  },
+  {
+    "productId": 881,
+    "sourceUrl": "https://productshop.johnniewalker.com/social/660b57cca114560ee4c477bf",
+    "imageUrl": "https://images.salsify.com/image/upload/s--dCeeEyDh--/d80hxom8drfuffjaxzxx.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Johnnie Walker product shop identifies this exact expression as 750mL and supplies this image.",
+    "reviewed": true
+  },
+  {
+    "productId": 1125,
+    "sourceUrl": "https://www.patrontequila.com/products/patron-silver.html",
+    "imageUrl": "https://www.patrontequila.com/binaries/content/gallery/patrontequila/products/patron-silver/2025_bottle_silver.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official expression page; exact expression visually checked; bottle label confirms 750 ml.",
+    "reviewed": true
+  },
+  {
+    "productId": 1124,
+    "sourceUrl": "https://www.patrontequila.com/products/patron-reposado.html",
+    "imageUrl": "https://www.patrontequila.com/binaries/content/gallery/patrontequila/products/patron-reposado/2025_bottle_repo.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official expression page; exact expression visually checked; bottle label confirms 750 ml.",
+    "reviewed": true
+  },
+  {
+    "productId": 1127,
+    "sourceUrl": "https://www.patrontequila.com/products/patron-anejo.html",
+    "imageUrl": "https://www.patrontequila.com/binaries/content/gallery/patrontequila/products/patron-anejo/2025_bottle_anejo.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official expression page; exact expression visually checked; bottle label confirms 750 ml.",
+    "reviewed": true
+  },
+  {
+    "productId": 1104,
+    "sourceUrl": "https://www.nikka.com/en/brands/coffey-grain-malt/",
+    "imageUrl": "https://www.nikka.com/en/brands/coffey-grain-malt/img/bottle_coffey-grain.webp",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "evidence": "Official Coffey Grain page lists 700ml and 750ml USA; depicted label requires review.",
+    "reviewed": false,
+    "rejectionReason": "Asset too small for confident size verification; leave placeholder."
+  },
+  {
+    "productId": 1151,
+    "sourceUrl": "https://www.remymartin.com/collection/vsop/",
+    "imageUrl": "https://static-prod.remymartin.com/app/uploads/2025/11/remy-martin-vsop-01-front-251106-01-1200x1200.webp",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official expression page; exact expression visually checked; bottle label confirms 700 ml / 70 cl.",
+    "reviewed": true
+  },
+  {
+    "productId": 1154,
+    "sourceUrl": "https://www.remymartin.com/collection/1738-accord-royal/",
+    "imageUrl": "https://static-prod.remymartin.com/app/uploads/2025/10/remy-martin-1738-accord-royal-01-front-no-bg-251013-01-1200x1200.webp",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official expression page; exact expression visually checked; bottle label confirms 700 ml / 70 cl.",
+    "reviewed": true
+  },
+  {
+    "productId": 683,
+    "sourceUrl": "https://www.greygoose.com/fr-ca/products/grey-goose-vodka.html",
+    "imageUrl": "https://www.greygoose.com/binaries/large/content/gallery/greygoose/products/grey-goose-vodka/ggo-bottle-intl.png",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "evidence": "Official expression page; depicted size requires label review.",
+    "reviewed": false,
+    "rejectionReason": "Asset too small for confident size verification; leave placeholder."
+  },
+  {
+    "productId": 1327,
+    "sourceUrl": "https://32viadeibirrai.it/products/luxury-elegant-beer-75cl",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5757/2262/files/Progetto_senza_titolo_20.png?v=1747149155",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Curmi 75 CL; official brewery product title specifies 75 CL. Bottle label visually confirms exact beer; no variant substitution.",
+    "reviewed": true
+  },
+  {
+    "productId": 1328,
+    "sourceUrl": "https://32viadeibirrai.it/products/refined-balance-beer-75-cl",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5757/2262/files/SOLO_3_2__7.png?v=1759303703",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Oppale 75 CL; official brewery product title specifies 75 CL. Bottle label visually confirms exact beer; no variant substitution.",
+    "reviewed": true
+  },
+  {
+    "productId": 1329,
+    "sourceUrl": "https://32viadeibirrai.it/products/sophisticated-sensual-beer",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5757/2262/files/SOLO_3_2__19.png?v=1759313317",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Nebra 75 CL; official brewery product title specifies 75 CL. Bottle label visually confirms exact beer; no variant substitution.",
+    "reviewed": true
+  },
+  {
+    "productId": 623,
+    "sourceUrl": "https://www.gerard-bertrand.com/products/cote-des-roses-rose-2025-75cl",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1860/3211/files/Cote_des_roses_rose_Bouteilles_75cl.jpg?v=1772010655",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Cote des Roses AOP Languedoc 2025 \u2013 75cl vin ros\u00e9; catalogue does not specify vintage. Visually reviewed correct expression; 75cl official product SKU; no vintage asserted by catalogue.",
+    "reviewed": true
+  },
+  {
+    "productId": 1081,
+    "sourceUrl": "https://www.moet.com/en-int/moet-ice-imperial",
+    "imageUrl": "https://www.moet.com/sites/default/files/styles/portrait_bottle/public/2024-10/IMAGE%20PRODUIT%20SANS%20FOND%20-%20Ice%20Imperial-min_0.png?itok=ufPwn4jh",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Moet Ice Imperial isolated product asset; size needs visual review. Visually reviewed correct expression; 75cl printed at lower left of bottle label.",
+    "reviewed": true
+  },
+  {
+    "productId": 1077,
+    "sourceUrl": "https://www.moet.com/en-int/moet-rose-imperial",
+    "imageUrl": "https://www.moet.com/sites/default/files/styles/portrait_bottle/public/2024-10/IMAGE%20PRODUIT%20SANS%20FOND%20%281%29-min.png?itok=Ee1jm26R",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Moet expression page and bottle visually reviewed; 75cl on lower-left label, exact rose/ice rose/nectar expression confirmed.",
+    "reviewed": true
+  },
+  {
+    "productId": 1084,
+    "sourceUrl": "https://www.moet.com/en-int/moet-ice-imperial-rose",
+    "imageUrl": "https://www.moet.com/sites/default/files/styles/portrait_bottle/public/2024-11/IMAGE%20PRODUIT%20SANS%20FOND%20-%20Ice%20Rose-min.png?itok=dwUHRRqz",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Moet expression page and bottle visually reviewed; 75cl on lower-left label, exact rose/ice rose/nectar expression confirmed.",
+    "reviewed": true
+  },
+  {
+    "productId": 1076,
+    "sourceUrl": "https://www.moet.com/en-int/moet-nectar-imperial",
+    "imageUrl": "https://www.moet.com/sites/default/files/styles/portrait_bottle/public/2024-11/IMAGE%20PRODUIT%20SANS%20FOND%20-%20Nectar%20Imperial-min.png?itok=SD5fn98v",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Official Moet expression page and bottle visually reviewed; 75cl on lower-left label, exact rose/ice rose/nectar expression confirmed.",
+    "reviewed": true
+  },
+  {
+    "productId": 239,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-belleruche-rouge/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2022/05/m-chapoutier-belleruche-rouge-nv-bottle-screwcap-scaled.jpg",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: belleruche-rouge. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 240,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-belleruche-blanc/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2021/08/m-chapoutier-belleruche-blanc-nv-bottle-screwcap-scaled.jpg",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: belleruche-blanc. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 241,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-belleruche-rose/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2022/02/m-chapoutier-belleruche-rose-nv-bottle-new-scaled.jpg",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: belleruche-rose. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 247,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-la-bernardine-rouge/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2021/08/La-Bernardine-Red-NV-333x1000.png",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: la-bernardine-rouge. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 237,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-la-ciboise-blanc-2/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2023/03/m-chapoutier-la-ciboise-blanc-nv-bottle-screwcap-scaled.jpg",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: la-ciboise-blanc-2. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 236,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-la-ciboise-rouge/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2021/08/m-chapoutier-la-ciboise-rouge-bottle-new-scaled.jpg",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: la-ciboise-rouge. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 248,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-les-becasses/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2022/03/m-chapoutier-les-becasses-bottle-scaled.jpg",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: les-becasses. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 261,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-monier-dela-sizeranne/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2021/08/Sizeranne-Red-NV-Bottle-333x1000.png",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: monier-dela-sizeranne. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 243,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-petite-ruche-blanc/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2022/03/m-chapoutier-petite-ruche-blanc-nv-bottle-scaled.jpg",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: petite-ruche-blanc. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 242,
+    "sourceUrl": "https://www.foliowine.com/wine/m-chapoutier-petite-ruche-rouge/",
+    "imageUrl": "https://www.foliowine.com/wp-content/uploads/2021/08/Petite-Ruche-Rouge-NV-Bottle-333x1000.png",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "pending",
+    "evidence": "Folio Fine Wine Partners official distributor product library: petite-ruche-rouge. Chapoutier direct site blocked retrieval. Non-vintage-labelled bottle image; size to verify.",
+    "reviewed": false
+  },
+  {
+    "productId": 1425,
+    "sourceUrl": "https://www.masterofmalt.com/vodka/absolut-blue-vodka/",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-e8lbekfe7c/images/stencil/1440w/attribute_rule_images/29103_source_1789471896.jpg?compression=lossy",
+    "sourceType": "retailer",
+    "verificationConfidence": "high",
+    "evidence": "Exact selected 70cl, 40% original vodka. Official page inaccessible without age gate; accessible official previews only identified other sizes. Visually verified correct original vodka / seven-year rum bottle, exact 700ml SKU.",
+    "reviewed": true
+  },
+  {
+    "productId": 687,
+    "sourceUrl": "https://www.masterofmalt.com/rum/havana-club-anejo-7-year-old-rum/",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-e8lbekfe7c/images/stencil/1440w/attribute_rule_images/30982_source_1782224484.jpg?compression=lossy",
+    "sourceType": "retailer",
+    "verificationConfidence": "high",
+    "evidence": "Exact Havana Club Anejo 7, 70cl, 40%. Official brand asset retrieval returned 403. Visually verified correct original vodka / seven-year rum bottle, exact 700ml SKU.",
+    "reviewed": true
+  },
+  {
+    "productId": 1183,
+    "sourceUrl": "https://www.waitrose.com/ecom/products/san-pellegrino-sparkling-natural-mineral-water-glass/058425-29383-29384",
+    "imageUrl": "https://ecom-su-static-prod.wtrecom.com/images/products/4/LN_058425_BP_4.jpg",
+    "sourceType": "retailer",
+    "verificationConfidence": "high",
+    "evidence": "Waitrose exact 750ml glass SKU. Bottle label visually confirms 750ml. Official primary asset was downloaded and rejected as lifestyle photography. Retailer isolated image is 400px, adequate for the card but not high-resolution.",
+    "reviewed": true
+  },
+  {
+    "productId": 1181,
+    "sourceUrl": "https://www.sanpellegrino.com/it/acqua/bottiglia-vetro-100-cl",
+    "imageUrl": "https://www.sanpellegrino.com/it/sites/g/files/xknfdk2141/files/2021-12/sp-glass-1L%20copia.jpg",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "evidence": "Official size-specific water product page inspected in browser; heading and image alt identify bottiglia-vetro-100-cl.",
+    "reviewed": false,
+    "rejectionReason": "Exact isolated asset not yet downloaded or visually verified; retain placeholder."
+  },
+  {
+    "productId": 1184,
+    "sourceUrl": "https://www.sanpellegrino.com/it/acqua/bottiglia-vetro-25-cl",
+    "imageUrl": "https://www.sanpellegrino.com/it/sites/g/files/xknfdk2141/files/2021-12/sp-glass-25cl%20copia.JPG",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "evidence": "Official size-specific water product page inspected in browser; heading and image alt identify bottiglia-vetro-25-cl.",
+    "reviewed": false,
+    "rejectionReason": "Exact isolated asset not yet downloaded or visually verified; retain placeholder."
+  },
+  {
+    "productId": 1182,
+    "sourceUrl": "https://www.sanpellegrino.com/it/acqua/bottiglia-vetro-50-cl",
+    "imageUrl": "https://www.sanpellegrino.com/it/sites/g/files/xknfdk2141/files/2022-12/sp-50cl-glass-principale.jpg",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "evidence": "Official size-specific water product page inspected in browser; heading and image alt identify bottiglia-vetro-50-cl.",
+    "reviewed": false,
+    "rejectionReason": "Exact isolated asset not yet downloaded or visually verified; retain placeholder."
+  },
+  {
+    "productId": 1189,
+    "sourceUrl": "https://www.sanpellegrino.com/it/acqua/bottiglia-pet-100-cl",
+    "imageUrl": "https://www.sanpellegrino.com/it/sites/g/files/xknfdk2141/files/2022-01/sp-pet-1L%20copia.jpg",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "evidence": "Official size-specific water product page inspected in browser; heading and image alt identify bottiglia-pet-100-cl.",
+    "reviewed": false,
+    "rejectionReason": "Exact isolated asset not yet downloaded or visually verified; retain placeholder."
+  },
+  {
+    "productId": 161,
+    "sourceUrl": "https://shop.bushmills.com/products/10-year-old-single-malt-new",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4405/3079/products/10YO_New_malt.jpg?v=1643112675",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Distillery shop: 10 Year Old Single Malt; explicitly Volume 700ml, Alcohol 40%. Visually checked expression and age statement. Official studio photograph includes the standard carton; not a special gift-set edition.",
+    "reviewed": true
+  },
+  {
+    "productId": 156,
+    "sourceUrl": "https://shop.bushmills.com/products/16-yr-old-malt-new-bottle",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4405/3079/products/16YO_New_malt.jpg?v=1643113276",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Distillery shop: 16 Year Old Single Malt; explicitly Volume 700ml, Alcohol 40%. Visually checked expression and age statement. Official studio photograph includes the standard carton; not a special gift-set edition.",
+    "reviewed": true
+  },
+  {
+    "productId": 155,
+    "sourceUrl": "https://shop.bushmills.com/products/21-year-old-single-malt-new-bottle",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4405/3079/products/21YO_New_malt.jpg?v=1643113329",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "evidence": "Distillery shop: 21 Year Old Single Malt; explicitly Volume 700ml, Alcohol 40%. Visually checked expression and age statement. Official studio photograph includes the standard carton; not a special gift-set edition.",
+    "reviewed": true
+  },
+  {
+    "productId": 125,
+    "sourceUrl": "https://www.kubacompany.com/marken/beyti-juice",
+    "imageUrl": "https://cdn.prod.website-files.com/66bb59f9de18a4219956d5c2/66c3022c4fa04c915be2ca1c_Beyti%20mango%20juice.avif",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "KUBA distributor page explicitly identifies this flavour as 1 Liter and associates this carton image. Visually checked Beyti brand and Arabic flavour label: mango. Single carton represents the catalogue case of 12; product data and order unit preserved. Manufacturer website could not be retrieved due to certificate validation failure."
+  },
+  {
+    "productId": 122,
+    "sourceUrl": "https://www.kubacompany.com/marken/beyti-juice",
+    "imageUrl": "https://cdn.prod.website-files.com/66bb59f9de18a4219956d5c2/66c3022ce71acc34b564d752_Beyti%20mix%20juice.avif",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "KUBA distributor page explicitly identifies this flavour as 1 Liter and associates this carton image. Visually checked Beyti brand and Arabic flavour label: cocktail (\u0643\u0648\u0643\u062a\u064a\u0644), matching catalogue Cocktail. Single carton represents the catalogue case of 12; product data and order unit preserved. Manufacturer website could not be retrieved due to certificate validation failure."
+  },
+  {
+    "productId": 121,
+    "sourceUrl": "https://www.kubacompany.com/marken/beyti-juice",
+    "imageUrl": "https://cdn.prod.website-files.com/66bb59f9de18a4219956d5c2/66c3022cc9164aea4fee725a_Beyti%20pineapple%20juice.avif",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "KUBA distributor page explicitly identifies this flavour as 1 Liter and associates this carton image. Visually checked Beyti brand and Arabic flavour label: pineapple. Single carton represents the catalogue case of 12; product data and order unit preserved. Manufacturer website could not be retrieved due to certificate validation failure."
+  },
+  {
+    "productId": 123,
+    "sourceUrl": "https://www.kubacompany.com/marken/beyti-juice",
+    "imageUrl": "https://cdn.prod.website-files.com/66bb59f9de18a4219956d5c2/66c3022c2b1fe0125e9c47de_Beyti%20orange%20juice.avif",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "KUBA distributor page explicitly identifies this flavour as 1 Liter and associates this carton image. Visually checked Beyti brand and Arabic flavour label: orange. Single carton represents the catalogue case of 12; product data and order unit preserved. Manufacturer website could not be retrieved due to certificate validation failure."
+  },
+  {
+    "productId": 126,
+    "sourceUrl": "https://www.kubacompany.com/marken/beyti-juice",
+    "imageUrl": "https://cdn.prod.website-files.com/66bb59f9de18a4219956d5c2/66c3022b0d7edf0c36041c62_Beyti%20apple%20juice.avif",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "KUBA distributor page explicitly identifies this flavour as 1 Liter and associates this carton image. Visually checked Beyti brand and Arabic flavour label: apple. Single carton represents the catalogue case of 12; product data and order unit preserved. Manufacturer website could not be retrieved due to certificate validation failure."
+  },
+  {
+    "productId": 124,
+    "sourceUrl": "https://www.kubacompany.com/marken/beyti-juice",
+    "imageUrl": "https://cdn.prod.website-files.com/66bb59f9de18a4219956d5c2/66c3022ba779d7e2adc01238_Beyti%20guava%20juice.avif",
+    "sourceType": "manufacturer",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "KUBA distributor page explicitly identifies this flavour as 1 Liter and associates this carton image. Visually checked Beyti brand and Arabic flavour label: guava. Single carton represents the catalogue case of 12; product data and order unit preserved. Manufacturer website could not be retrieved due to certificate validation failure."
+  },
+  {
+    "productId": 47,
+    "sourceUrl": "https://www.almarai.com/en/brands/almarai/juices/apple-juices/apple",
+    "imageUrl": "https://almmedia.almarai.com/Gallery/ART-03199-Apple-1L-Labels_FB-KSA-UAE_V4_130325_3D_640x640px722202554006AM.png",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "reviewed": false,
+    "rejectionReason": "Official image depicts fresh/chilled bottled apple juice. Catalogue does not distinguish chilled bottle from long-life carton; leave placeholder until packaging/type confirmed."
+  },
+  {
+    "productId": 883,
+    "sourceUrl": "https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-gold-label-reserve",
+    "imageUrl": "https://images.ctfassets.net/waruwpig3jxu/41Pn5CAp9j5LGIG5lkskFg/333549fe2d70d26979740c56a95b1b60/Gold_750ml_producthero_fullfront_desktop.avif?fm=avif&w=2560&q=80",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official US brand product page supplies this explicitly named 750ml front-facing asset. Visually checked expression and standard bottle label. 18-year image maps only Ultimate 18, not the separate older Platinum product."
+  },
+  {
+    "productId": 886,
+    "sourceUrl": "https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-aged-18-years",
+    "imageUrl": "https://images.ctfassets.net/waruwpig3jxu/3DeASJkvbI8jVuk6j9Envh/b626e0581c8dda7d6cf186136f066841/Johnnie_Walker_18YO_088076181366_750ml_Front1.avif?fm=avif&w=2560&q=80",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official US brand product page supplies this explicitly named 750ml front-facing asset. Visually checked expression and standard bottle label. 18-year image maps only Ultimate 18, not the separate older Platinum product."
+  },
+  {
+    "productId": 425,
+    "sourceUrl": "https://www.copperhead.be/gins/black-batch",
+    "imageUrl": "https://www.copperhead.be/images/gins/image/1/black-batch.png?t=1678188956",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official Copperhead product page identifies Black Batch as 50cl and supplies this isolated bottle image. Visually checked brand, expression and packaging."
+  },
+  {
+    "productId": 427,
+    "sourceUrl": "https://www.copperhead.be/gins/gibson-edition",
+    "imageUrl": "https://www.copperhead.be/images/gins/image/3/gibson-edition.png?t=1678192527",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official Copperhead product page identifies Gibson Edition as 50cl and supplies this isolated bottle image. Visually checked brand, expression and packaging."
+  },
+  {
+    "productId": 426,
+    "sourceUrl": "https://www.copperhead.be/gins/original",
+    "imageUrl": "https://www.copperhead.be/images/gins/image/2/original.png?t=1678189075",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official brand identifies Original as Copperhead London Dry Gin, 50cl, 40% ABV. Visually checked isolated copper bottle label."
+  },
+  {
+    "productId": 1200,
+    "sourceUrl": "https://www.sirchillgin.be/en/our-products/sir-chill-gin-black-edition",
+    "imageUrl": "https://www.sirchillgin.be/sites/default/files/styles/half_width_desktop_max/public/uploads/images/sir-chill-packshots-low-8.webp?itok=AUIAq5Vs",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "reviewed": false,
+    "rejectionReason": "Identity and 50cl/43% size confirmed, but official photograph is a lifestyle scene with fruit, not an isolated catalogue packshot."
+  },
+  {
+    "productId": 146,
+    "sourceUrl": "https://www.bottegaspa.com/en/collections/gold-prosecco-doc/",
+    "imageUrl": "https://www.bottegaspa.com/wp-content/uploads/2018/01/V23083075_BOTTEGA-GOLD-PROSECCO-DOC-SPUMANTE-BRUT-CL75_WB_HR.jpg",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official manufacturer page and image asset explicitly identify CL75, matched to catalogue 75cl. Visually checked standard Gold. Magnum, jeroboam and special editions are not mapped to this photo."
+  },
+  {
+    "productId": 152,
+    "sourceUrl": "https://www.bottegaspa.com/en/collections/bottega-rose-gold-bottega-spa/",
+    "imageUrl": "https://www.bottegaspa.com/wp-content/uploads/2018/02/V23038075_BOTTEGA-ROSE-GOLD-SPUMANTE-BRUT-CL75-1.jpg",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official manufacturer page and image asset explicitly identify CL75, matched to catalogue 75cl. Visually checked standard Rose Gold (not Pink Gold); official photograph includes vegan certification badge. Magnum, jeroboam and special editions are not mapped to this photo."
+  },
+  {
+    "productId": 145,
+    "sourceUrl": "https://www.bottegaspa.com/en/collections/pink-gold-prosecco-doc-rose/",
+    "imageUrl": "https://www.bottegaspa.com/wp-content/uploads/2020/12/V23013075_PINK-GOLD-PROSECCO-DOC-ROSE-BOTTEGA-CL75.jpg",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official manufacturer page and image asset explicitly identify CL75, matched to catalogue 75cl. Visually checked standard Pink Gold (not Rose Gold). Magnum, jeroboam and special editions are not mapped to this photo."
+  },
+  {
+    "productId": 1147,
+    "sourceUrl": "https://www.redbull.com/gb-en/energydrink/products/red-bull-energy-drink",
+    "imageUrl": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/528x1348/53e078bcb9/gb_ed_250ml_energy-drink_country_rgb__cold_closed_front_com_full.png/m/686x0",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official Red Bull Original page supplies explicitly named 250ml original energy-drink can asset. Visually reviewed standard blue/silver original can, not Sugarfree/Zero/Edition. Catalogue case notation 24x25 represents 24 x 25cl. Downloaded using normal browser media download."
+  },
+  {
+    "productId": 282,
+    "sourceUrl": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "imageUrl": "https://www.pierre-chavin.com/wp-content/uploads/2023/05/LePetitChavin_AlcoholFree_ChardonnayEffervescent_Blanc_75cl.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official product collection identifies this exact expression and 75cl packaging. Chavin - collection Le Petit Chavin - Chardonnay - Sparkling White Visually reviewed brand, grape/expression, still versus sparkling closure and label; no stated catalogue vintage. Muscat product remains unmapped because catalogue does not specify sparkling."
+  },
+  {
+    "productId": 276,
+    "sourceUrl": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "imageUrl": "https://www.pierre-chavin.com/wp-content/uploads/2023/05/LePetitChavin_AlcoholFree_RoseEffervescent_75cl.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official product collection identifies this exact expression and 75cl packaging. Chavin - collection Le Petit Chavin - Chardonnay / Merlot - Sparkling Ros\u00e9 Visually reviewed brand, grape/expression, still versus sparkling closure and label; no stated catalogue vintage. Muscat product remains unmapped because catalogue does not specify sparkling."
+  },
+  {
+    "productId": 284,
+    "sourceUrl": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "imageUrl": "https://www.pierre-chavin.com/wp-content/uploads/2023/05/LePetitChavin_AlcoholFree_Chardonnay_Blanc_75cl.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official product collection identifies this exact expression and 75cl packaging. Chavin - collection Le Petit Chavin - Chardonnay - White Visually reviewed brand, grape/expression, still versus sparkling closure and label; no stated catalogue vintage. Muscat product remains unmapped because catalogue does not specify sparkling."
+  },
+  {
+    "productId": 280,
+    "sourceUrl": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "imageUrl": "https://www.pierre-chavin.com/wp-content/uploads/2023/05/LePetitChavin_AlcoholFree_Rose_75cl.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official product collection identifies this exact expression and 75cl packaging. Chavin - collection Le Petit Chavin - Chardonnay - Ros\u00e9 Visually reviewed brand, grape/expression, still versus sparkling closure and label; no stated catalogue vintage. Muscat product remains unmapped because catalogue does not specify sparkling."
+  },
+  {
+    "productId": 281,
+    "sourceUrl": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/le-petit-chavin/",
+    "imageUrl": "https://www.pierre-chavin.com/wp-content/uploads/2023/05/LePetitChavin_AlcoholFree_Merlot_Rouge_75cl.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official product collection identifies this exact expression and 75cl packaging. Chavin - collection Le Petit Chavin - Merlot - Red Visually reviewed brand, grape/expression, still versus sparkling closure and label; no stated catalogue vintage. Muscat product remains unmapped because catalogue does not specify sparkling."
+  },
+  {
+    "productId": 277,
+    "sourceUrl": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/chavinzero/",
+    "imageUrl": "https://www.pierre-chavin.com/wp-content/uploads/2023/05/Visuel_bouteilles_sitecorpo_200x600px_ChardonnayEffervescent-1.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official product collection identifies this exact expression and 75cl packaging. Chavin - collection Chavin Z\u00e9ro - Chardonnay - Sparkling White Visually reviewed brand, grape/expression, still versus sparkling closure and label; no stated catalogue vintage. Muscat product remains unmapped because catalogue does not specify sparkling."
+  },
+  {
+    "productId": 278,
+    "sourceUrl": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/chavinzero/",
+    "imageUrl": "https://www.pierre-chavin.com/wp-content/uploads/2023/05/Visuel_bouteilles_sitecorpo_200x600px_ChardonnayStill.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official product collection identifies this exact expression and 75cl packaging. Chavin - collection Chavin Z\u00e9ro - Chardonnay - White Visually reviewed brand, grape/expression, still versus sparkling closure and label; no stated catalogue vintage. Muscat product remains unmapped because catalogue does not specify sparkling."
+  },
+  {
+    "productId": 279,
+    "sourceUrl": "https://www.pierre-chavin.com/en/the-non-alcoholic-collection/chavinzero/",
+    "imageUrl": "https://www.pierre-chavin.com/wp-content/uploads/2023/05/Visuel_bouteilles_sitecorpo_200x600px_Syrah.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official product collection identifies this exact expression and 75cl packaging. Chavin - collection Chavin Z\u00e9ro - Syrah - Red Visually reviewed brand, grape/expression, still versus sparkling closure and label; no stated catalogue vintage. Muscat product remains unmapped because catalogue does not specify sparkling."
+  },
+  {
+    "productId": 925,
+    "sourceUrl": "https://www.laurent-perrier.com/en/champagnes/cuvee-rose/",
+    "imageUrl": "https://www.laurent-perrier.com/wp-content/uploads/2023/08/Champagne-Cuvee-Rose-Laurent-Perrier.png",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "reviewed": false,
+    "evidence": "Official Laurent-Perrier product image visually checked for exact expression; Catalogue specifies 75cl, but depicted bottle size not confirmed.",
+    "rejectionReason": "Depicted size remains unverified; do not substitute for a confirmed 75cl asset."
+  },
+  {
+    "productId": 926,
+    "sourceUrl": "https://www.laurent-perrier.com/en/champagnes/la-cuvee/",
+    "imageUrl": "https://www.laurent-perrier.com/wp-content/uploads/2023/08/Champagne-La-Cuvee-Laurent-Perrier.png",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "reviewed": false,
+    "evidence": "Official Laurent-Perrier product image visually checked for exact expression; Catalogue specifies 75cl, but depicted bottle size not confirmed.",
+    "rejectionReason": "Depicted size remains unverified; do not substitute for a confirmed 75cl asset."
+  },
+  {
+    "productId": 922,
+    "sourceUrl": "https://www.laurent-perrier.com/en/champagnes/blanc-de-blancs-brut-nature/",
+    "imageUrl": "https://www.laurent-perrier.com/wp-content/uploads/2023/09/Champagne-Blanc-de-Blanc-VIN-1.png",
+    "sourceType": "official",
+    "verificationConfidence": "pending",
+    "reviewed": false,
+    "evidence": "Official Laurent-Perrier product image visually checked for exact expression; Catalogue specifies 75cl, but depicted bottle size not confirmed.",
+    "rejectionReason": "Depicted size remains unverified; do not substitute for a confirmed 75cl asset."
+  },
+  {
+    "productId": 920,
+    "sourceUrl": "https://www.laurent-perrier.com/en/champagnes/harmony/",
+    "imageUrl": "https://www.laurent-perrier.com/wp-content/uploads/2023/08/Champagne-Harmony-Laurent-Perrier.png",
+    "sourceType": "official",
+    "verificationConfidence": "high",
+    "reviewed": true,
+    "evidence": "Official Laurent-Perrier product image visually checked for exact expression; Harmony Demi-Sec catalogue entry has no stated size, so no conflicting size assignment."
+  }
+]
