@@ -1,12 +1,15 @@
 import data from "./products.json";
 import imageData from "./product-images.json";
+import finalPriceData from "./final-price-overrides.json";
 
 // products.json is the immutable pre-increase baseline. Never multiply an already adjusted price.
 export const PRICE_MULTIPLIER = 1.12;
-export const PRICE_POLICY = "2026-09-15-plus-12-percent";
+export const PRICE_POLICY = "2026-09-15-plus-12-percent-with-2026-11-09-supplier-final-overrides";
+// Supplier figures are final per-bottle prices: never increase or round these overrides.
+const finalPrices: Readonly<Record<string, number>> = finalPriceData;
 export const adjustedPrice = (original: number) => Math.round(original * 112 / 100);
 export const exactAdjustedPrice = (original: number) => original * 112 / 100;
-export const money = (value: number) => value.toLocaleString("en-GH", { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+export const money = (value: number) => value.toLocaleString("en-GH", { minimumFractionDigits: Math.round(value * 100) % 100 === 0 ? 0 : 2, maximumFractionDigits: 2 });
 export const titleCase = (value: string) => value.toLowerCase().replace(/(^|[\s-])\S/g, c => c.toUpperCase());
 export const collections: Record<string, string[]> = {
   spirits: ["BITTERS", "BRANDY", "COGNAC", "CREAM LIQUEUR", "GIN", "LIQUEUR", "OTHER SPIRITS", "RTD", "RUM", "TEQUILA", "VERMOUTH", "VODKA", "WHISKY"],
@@ -28,7 +31,7 @@ const images = imageData as Record<string, { src: string; source: string; note?:
 export const featuredIds = [693, 1082, 690, 102, 827];
 export const products = data.map(p => ({ ...p,
   category: p.category.trim(), brand: p.brand.trim(), region: (p.region || "Not specified").trim(),
-  originalPrice: Number(p.price), exactPrice: exactAdjustedPrice(Number(p.price)), price: adjustedPrice(Number(p.price)),
+  originalPrice: Number(p.price), exactPrice: finalPrices[String(p.id)] ?? exactAdjustedPrice(Number(p.price)), price: finalPrices[String(p.id)] ?? adjustedPrice(Number(p.price)),
   bottleMl: bottleSize(p.name, p.size), image: images[String(p.id)]?.src ?? null,
   imageNote: images[String(p.id)]?.note ?? "", featuredRank: featuredIds.includes(p.id) ? featuredIds.indexOf(p.id) : 10000 + p.id
 }));

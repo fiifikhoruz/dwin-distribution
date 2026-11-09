@@ -1,5 +1,39 @@
 {
-  "policy": "Original × 1.12, then round to nearest whole GHS",
+  "policy": "Supplier final-price overrides for 5 confirmed products; original × 1.12 rounded for all others",
+  "supplierOverrideCount": 5,
+  "unchangedPriceCount": 1454,
+  "updates": [
+    {
+      "id": 662,
+      "name": "GENFIDDICH WHISKY 21 YO 3X70CL GRAN RESERVA",
+      "previous": 5517,
+      "final": 3910.6
+    },
+    {
+      "id": 663,
+      "name": "GLENFIDDICH 15YO 70CL",
+      "previous": 1201,
+      "final": 975.4
+    },
+    {
+      "id": 660,
+      "name": "GLENFIDICH 12 YEAR 70CL",
+      "previous": 782,
+      "final": 650
+    },
+    {
+      "id": 824,
+      "name": "JAGERMEISTER 6X70CL",
+      "previous": 251,
+      "final": 215
+    },
+    {
+      "id": 823,
+      "name": "JAGERMEISTER 1L",
+      "previous": 440,
+      "final": 300
+    }
+  ],
   "baselineCommit": "d1ac18e",
   "originalCount": 1459,
   "finalCount": 1459,
