@@ -2,7 +2,8 @@ import data from "./products.json";
 import imageData from "./product-images.json";
 import finalPriceData from "./final-price-overrides.json";
 
-// products.json is the immutable pre-increase baseline. Never multiply an already adjusted price.
+// Legacy records retain their pre-increase base prices. Supplier additions have final-price overrides.
+// Never multiply an already adjusted or supplier-final price.
 export const PRICE_MULTIPLIER = 1.12;
 export const PRICE_POLICY = "2026-09-15-plus-12-percent-with-2026-11-09-supplier-final-overrides";
 // Supplier figures are final per-bottle prices: never increase or round these overrides.

@@ -27,7 +27,7 @@ export async function downloadPriceList(items: Product[]) {
   const doc = new jsPDF({ compress: true }); await documentHeader(doc, "DRINKS PRICE LIST 2026");
   doc.setFontSize(10); doc.text(`${items.length} products | Dwin Distribution catalogue`, 14, 49);
   autoTable(doc, { startY: 55, head: [["Code", "Product", "Category", "Price (GHS)"]],
-    body: items.map(p => [p.code, safeText(p.name), p.category, money(p.price)]),
+    body: items.map(p => [p.code ?? "", safeText(p.name), p.category, money(p.price)]),
     styles: { fontSize: 8, cellPadding: 3 }, headStyles: { fillColor: [91,35,48] },
     alternateRowStyles: { fillColor: [248,247,243] }, columnStyles: { 3: { halign: "right" } }, margin: { bottom: 20 }
   }); footer(doc); doc.save("Dwin-Distribution-Price-List-2026.pdf");
@@ -39,7 +39,7 @@ export async function downloadInvoice(items: { product: Product; quantity: numbe
   const qr = await QRCode.toDataURL(`${window.location.origin}/list`, { margin: 1, width: 180, errorCorrectionLevel: "M" });
   doc.addImage(qr, "PNG", 168, 44, 27, 27);
   autoTable(doc, { startY: 77, head: [["Code", "Description", "Qty", "Unit (GHS)", "Total (GHS)"]],
-    body: items.map(({product: p, quantity}) => [p.code, safeText(p.name), quantity, money(p.price), money(p.price * quantity)]),
+    body: items.map(({product: p, quantity}) => [p.code ?? "", safeText(p.name), quantity, money(p.price), money(p.price * quantity)]),
     foot: [["", "TOTAL (GHS)", "", "", money(items.reduce((sum, item) => sum + item.product.price * item.quantity, 0))]],
     styles: { fontSize: 9, cellPadding: 3.5 }, headStyles: { fillColor: [91,35,48] }, footStyles: { fillColor: [91,35,48] },
     columnStyles: { 2: { halign: "center" }, 3: { halign: "right" }, 4: { halign: "right" } }, margin: { bottom: 34 }

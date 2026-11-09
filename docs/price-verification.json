@@ -1,69 +1,143 @@
 {
-  "policy": "Supplier final-price overrides for 5 confirmed products; original × 1.12 rounded for all others",
-  "supplierOverrideCount": 5,
-  "unchangedPriceCount": 1454,
-  "updates": [
-    {
-      "id": 662,
-      "name": "GENFIDDICH WHISKY 21 YO 3X70CL GRAN RESERVA",
-      "previous": 5517,
-      "final": 3910.6
-    },
-    {
-      "id": 663,
-      "name": "GLENFIDDICH 15YO 70CL",
-      "previous": 1201,
-      "final": 975.4
-    },
-    {
-      "id": 660,
-      "name": "GLENFIDICH 12 YEAR 70CL",
-      "previous": 782,
-      "final": 650
-    },
-    {
-      "id": 824,
-      "name": "JAGERMEISTER 6X70CL",
-      "previous": 251,
-      "final": 215
-    },
-    {
-      "id": 823,
-      "name": "JAGERMEISTER 1L",
-      "previous": 440,
-      "final": 300
-    }
-  ],
-  "baselineCommit": "d1ac18e",
+  "policy": "21 supplier-final overrides, no markup; legacy pricing unchanged",
+  "baselineCommit": "2092bba",
   "originalCount": 1459,
-  "finalCount": 1459,
-  "verifiedPrices": 1459,
-  "preservedSource": true,
+  "finalCount": 1475,
+  "addedCount": 16,
+  "unchangedExistingRecords": 1459,
+  "unchangedExistingPrices": 1459,
+  "previousSupplierPricesPreserved": 5,
+  "supplierFinalPricesVerified": 21,
+  "verifiedPrices": 1475,
   "failures": 0,
-  "examples": [
+  "additions": [
     {
-      "id": 1,
-      "original": 377,
-      "exact": 422.24,
-      "displayed": 422
+      "id": 1460,
+      "name": "CLAN MCGREGGOR 100CL",
+      "category": "WHISKY",
+      "brand": "CLAN",
+      "size": "100CL",
+      "price": 115
     },
     {
-      "id": 5,
-      "original": 113,
-      "exact": 126.56,
-      "displayed": 127
+      "id": 1461,
+      "name": "GLENFIDDICH 23 YEARS 70CL",
+      "category": "WHISKY",
+      "brand": "GLENFIDDICH",
+      "size": "70CL",
+      "price": 5797.5
     },
     {
-      "id": 2,
-      "original": 113,
-      "exact": 126.56,
-      "displayed": 127
+      "id": 1462,
+      "name": "THE BALVENIE 12 YEARS 70CL",
+      "category": "WHISKY",
+      "brand": "THE BALVENIE",
+      "size": "70CL",
+      "price": 1105.6
     },
     {
-      "id": 3,
-      "original": 113,
-      "exact": 126.56,
-      "displayed": 127
+      "id": 1463,
+      "name": "GRANTS TRIPLE WOOD",
+      "category": "WHISKY",
+      "brand": "GRANTS",
+      "size": null,
+      "price": 150
+    },
+    {
+      "id": 1464,
+      "name": "GRANTS 12 YEARS",
+      "category": "WHISKY",
+      "brand": "GRANTS",
+      "size": null,
+      "price": 340
+    },
+    {
+      "id": 1465,
+      "name": "TULLAMORE DEW",
+      "category": "WHISKY",
+      "brand": "TULLAMORE DEW",
+      "size": null,
+      "price": 210
+    },
+    {
+      "id": 1466,
+      "name": "HENDRICKS GIN",
+      "category": "GIN",
+      "brand": "HENDRICK'S GIN",
+      "size": null,
+      "price": 575.2
+    },
+    {
+      "id": 1467,
+      "name": "JAGERMEISTER HERB LIQUEUR 175CL",
+      "category": "LIQUEUR",
+      "brand": "JAGERMEISTER",
+      "size": "175CL",
+      "price": 470.2
+    },
+    {
+      "id": 1468,
+      "name": "JAGERMEISTER HERB LIQUEUR 50CL",
+      "category": "LIQUEUR",
+      "brand": "JAGERMEISTER",
+      "size": "50CL",
+      "price": 160
+    },
+    {
+      "id": 1469,
+      "name": "JAGERMEISTER HERB LIQUEUR 35CL",
+      "category": "LIQUEUR",
+      "brand": "JAGERMEISTER",
+      "size": "35CL",
+      "price": 123.8
+    },
+    {
+      "id": 1470,
+      "name": "JAGERMEISTER HERB LIQUEUR 20CL",
+      "category": "LIQUEUR",
+      "brand": "JAGERMEISTER",
+      "size": "20CL",
+      "price": 75.5
+    },
+    {
+      "id": 1471,
+      "name": "JAGERMEISTER SLEEVE 10CL",
+      "category": "LIQUEUR",
+      "brand": "JAGERMEISTER",
+      "size": "10CL",
+      "price": 62
+    },
+    {
+      "id": 1472,
+      "name": "JAGERMEISTER SLEEVE 4CL",
+      "category": "LIQUEUR",
+      "brand": "JAGERMEISTER",
+      "size": "4CL",
+      "price": 29.5
+    },
+    {
+      "id": 1473,
+      "name": "SWEET LIPS NATURAL SWEET RED",
+      "category": "WINE",
+      "brand": "SWEET LIPS",
+      "size": null,
+      "price": 60.4
+    },
+    {
+      "id": 1474,
+      "name": "MONKEY SHOULDER BLENDED MALT SCOTCH 70CL",
+      "category": "WHISKY",
+      "brand": "MONKEY SHOULDER",
+      "size": "70CL",
+      "price": 460
+    },
+    {
+      "id": 1475,
+      "name": "GLENFIDDICH 18 YEARS 70CL",
+      "category": "WHISKY",
+      "brand": "GLENFIDDICH",
+      "size": "70CL",
+      "price": 1545.4
     }
   ]
 }
